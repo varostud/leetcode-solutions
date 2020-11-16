@@ -1,5 +1,0 @@
-git rebase -i *trueCommit*^
-(and remove "wrong" commits except "true")
-git push origin +master --force
-
-(I know it's not so correct, but I needed to remove commits made by mistake from the old git account)
